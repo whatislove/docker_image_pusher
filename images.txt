@@ -1,5 +1,4 @@
 nginx
-nacos
 redis
 mysql
 seata-server
